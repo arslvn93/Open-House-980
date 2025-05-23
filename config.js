@@ -1,4 +1,4 @@
-{
+const config = {
   "property": {
     "streetAddress": "80 John St #2912",
     "city": "Toronto",
@@ -120,6 +120,6 @@
     "repoUrl": "https://github.com/arslvn93/Open-House-980",
     "tag": "Open House 80 John St #2912",
     "netlifyUrl": "http://Open-House-980.netlify.app",
-    "siteId": null
+    "siteId": "d66844ad-5c73-486c-a9e8-92c6cfbf4f0b"
   }
 }
